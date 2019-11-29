@@ -1,5 +1,6 @@
-# Zachary Ducahrme 11/6/19
 #!/bin/bash
+
+# Zachary Ducahrme 11/6/19
 #
 sudo ip addr > interfaceinfo.txt
 sudo netstat -a -n -o > ports.txt
